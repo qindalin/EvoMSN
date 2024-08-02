@@ -11,6 +11,13 @@ mkdir datasets
 ```
 All the 9 datasets are available at the [Google Driver](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided by Autoformer. Many thanks to their efforts and devotion!
 
+#### Running
+
+We provide ready-to-use scripts for **EvoMSN** enhanced **online** forecasting and **MSN** enhanced **offline** forecasting.
+
+```bash
+sh run_<model_name>.sh 
+```
 ### Acknowledgement
 
 This repo is built on the pioneer works. We appreciate the following GitHub repos a lot for their valuable code base or datasets:
